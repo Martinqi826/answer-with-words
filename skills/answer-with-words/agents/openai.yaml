@@ -1,0 +1,4 @@
+interface:
+  display_name: "词汇回答"
+  short_description: "只用词语和简短词组回答问题，保留核心概念，不写解释和完整句子"
+  default_prompt: "使用 $answer-with-words，仅用词汇回答接下来的问题。"
